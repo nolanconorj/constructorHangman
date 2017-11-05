@@ -1,0 +1,16 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "constructorHangman",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Nolan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
